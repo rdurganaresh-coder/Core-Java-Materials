@@ -8,7 +8,10 @@
   - [Stream Operations Guide](#stream-operations-guide)
 
 - [Date & Time API](#date--time-api)
-  - 📄 [Java 8 - LocalDate Class API Guide](./pdf/java8-localdate-class-api-guide.pdf)
-  - 📄 [Java 8 - LocalDateTime Class API Guide](./pdf/java8-localdatetime-class-api-guide.pdf)
-  - 📄 [Java 8 - LocalTime Class API Guide](./pdf/java8-localtime-class-api-guide.pdf)
-  - 📄 [Java 8 - ZonedDateTime Class API Guide](./pdf/java8-zoneddatetime-class-api-guide.pdf)
+  - 📄 [Java 8 - LocalDate Class API Guide](./pdf/date-time-api/java8-localdate-class-api-guide.pdf)
+  - 📄 [Java 8 - LocalDateTime Class API Guide](./pdf/date-time-api/java8-localdatetime-class-api-guide.pdf)
+  - 📄 [Java 8 - LocalTime Class API Guide](./pdf/date-time-api/java8-localtime-class-api-guide.pdf)
+  - 📄 [Java 8 - ZonedDateTime Class API Guide](./pdf/date-time-api/java8-zoneddatetime-class-api-guide.pdf)
+  
+ - [Interview Questions PDF](#interview-questions)
+  -  📄 [Java 8 - LocalDate Class API Guide](./pdf/java8-localdate-class-api-guide.pdf)
