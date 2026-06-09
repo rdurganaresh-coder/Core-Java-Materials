@@ -1,11 +1,12 @@
-# Java 8 PDF Files
 
-## Java 8 Materials:
+# Java 8 PDF Materials
 
-### Date & Time API
+## Table of Contents
 
-#### 📄 [Java 8 LocalDate Class API Guide](./pdf/java8-localdate-api-guide.pdf)
+- [Streams](#streams)
+  - [Java 8 Streams API Guide](#java-8-streams-api-guide)
+  - [Stream Operations Guide](#stream-operations-guide)
 
-#### 📄 [LocalDateTime Class API Guide (PDF)](./pdf/java8-localdatetime-api-guide.pdf)
-
-#### 📄 [ZonedDateTime Class API Guide (PDF)](./pdf/java8-zoneddatetime-api-guide.pdf)
+- [Date & Time API](#date--time-api)
+  - 📄 [Java 8 LocalDate Class API Guide](./pdf/java8-localdate-api-guide.pdf)
+  - [LocalDateTime Class API Guide](#localdatetime-class-api-guide)
