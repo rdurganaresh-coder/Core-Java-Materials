@@ -1,4 +1,4 @@
-#  "CoreJava In-Depth Material"
+#  CoreJava In-Depth Material
 
 
 ## Table Of Contents
