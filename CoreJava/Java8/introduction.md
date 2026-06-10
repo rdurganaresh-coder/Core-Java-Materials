@@ -1,7 +1,7 @@
 
 # Java 8 PDF Materials
 
-## Table of Contents
+## Documents
 
 - [Streams](#streams)
   - 📄 [Java 8 Stream API Guide](./pdf/streams/java8-stream-api-guide.pdf)
