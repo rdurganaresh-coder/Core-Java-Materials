@@ -1,6 +1,7 @@
-# Object Class API Guide
 
-## Table of Contents
+# Object Class
 
-- [Object Class API Guide](#object-class-api-guide)
-  - [Table of Contents](#table-of-contents)
+
+## Documents
+
+- [Java Lang Object Class API Guide](./java-lang-object-class-api-guide.pdf)

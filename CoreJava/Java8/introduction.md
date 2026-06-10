@@ -4,7 +4,7 @@
 ## Table of Contents
 
 - [Streams](#streams)
-  - [Java 8 Stream API Guide](./pdf/streams/java8-stream-api-guide.pdf)
+  - 📄 [Java 8 Stream API Guide](./pdf/streams/java8-stream-api-guide.pdf)
 
 - [Date & Time API](#date--time-api)
   - 📄 [Java 8 - LocalDate Class API Guide](./pdf/date-time-api/java8-localdate-class-api-guide.pdf)
