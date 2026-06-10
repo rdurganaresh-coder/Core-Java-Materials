@@ -26,9 +26,11 @@
 ## Program Md Files  
 - [Programs](#programs)
   - 📄 [Java Streams Examples](./programs/java-stream-examples.md)
+  - 📄 [Java Streams Pattern Examples](./programs/java_stream_patterns_extended.md)
 
 ## Interview Questions Md file
 - [Interview Questions](#interview-questions)
   - 📄 [Java 8 Stream Coding Questions](./interview-questions/java8-stream-coding-problems.md)
   - 📄 [Java 8 Stream Interview Questions](./interview-questions/java8-stream-interview-questions.md)
+  
 

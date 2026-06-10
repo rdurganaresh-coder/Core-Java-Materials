@@ -7,6 +7,7 @@
 - 📄 [Document 3](./pdf/java-programs-with-output-useful-collection.pdf)
 - 📄 [Document 4](./pdf/basic-programs1.pdf)
 - 📄 [Document 5](./pdf/basic-programs2.pdf)
+- 📄 [Document 6](./pdf/java_coding_questions.pdf)
 
 ## MD Files
 
