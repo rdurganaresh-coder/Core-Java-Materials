@@ -5,4 +5,5 @@
 - 📄 [Document 1](./pdf/java-coding-interview-programs.pdf)
 - 📄 [Document 2](./pdf/java-programming-notes.pdf)
 - 📄 [Document 3](./pdf/java-programs-with-output-useful-collection.pdf)
-- 📄 [Document 4](./pdf/basics-programs.pdf)
+- 📄 [Document 4](./pdf/basic-programs1.pdf)
+- 📄 [Document 5](./pdf/basic-programs2.pdf)
