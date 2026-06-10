@@ -9,5 +9,5 @@
 - [Thread Class API Guide](thread-class/introduction.md)
 - [Collection API Guide](collection-class/introduction.md)
 - [Java 8 PDF Files](Java8/introduction.md)
-- [Interview Questions](Interviews/java_interview_questions.md)
+- [Interview Questions](Interviews/introduction.md)
 - [Important Linkks For Preparation](important-links/introduction.md)
