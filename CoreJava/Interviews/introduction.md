@@ -2,4 +2,8 @@
 
 ## Documents
 
-- [Document 1](./Java_Interview_Questions.md)
+### Md Files
+- 📄 [Md File 1](./md-files/Java_Interview_Questions.md)
+  
+### Pdf Files
+- 📄 [Pdf File 1](./documents/java-interview-questions-with-answers.pdf)
